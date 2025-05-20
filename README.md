@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maobupa
-- 👀 I’m interested in machine learning, nlp, computational humanities, text analysis
-- 🌱 I’m currently an undergraduate at Rice, studying Physics and English with a minor in Data Science 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in machine learning, LLM, NLP, computational humanities, text analysis
+- 🌱 I’m currently a master student in Symbolic Systems at Stanford.
+- 💞️ My current project focuses on training transformer models for liteary analysis and building LLMs agents for different simulation purposes 
 - 📫 How to reach me maohuijun01@gmail.com
 
 <!---
