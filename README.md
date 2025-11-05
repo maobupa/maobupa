@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maobupa
-- 👀 I’m interested in machine learning, LLM, NLP, computational humanities, text analysis
-- 🌱 I’m currently a master student in Symbolic Systems at Stanford.
-- 💞️ My current project focuses on training transformer models for liteary analysis and building LLMs agents for different simulation purposes 
+- 🌱 M.S. Symbolic Systems @ Stanford
+- 💞️ I'm working at the intersection of AI, education, and human. I love to turn abstract ideas into real concrete systems. My recent interest focuses on how human and AI system reason, learn, and communicate.
+- 🧩 Recent Projects: Adversarial Multi-agent Grader, Student Simulator for Oral Exam Generations, Analogical LLM
 - 📫 How to reach me maohuijun01@gmail.com
 
 <!---
